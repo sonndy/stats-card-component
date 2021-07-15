@@ -60,5 +60,5 @@ I want to continue focusing on understanding flexbox and finding new ways i can 
 
 ## Author
 
-- Website - [Sonndy Exantus](https://https://github.com/sonndy/stats-card-component)
+- Website - [Sonndy Exantus](https://https://github.com/sonndy)
 
