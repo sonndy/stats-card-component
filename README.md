@@ -18,7 +18,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Screenshot
 
 ![](images/Stats%20preview%20card%20component%20desktop.png)
-![](images/Stats%20preview%20card%20component%20desktop.png)
+![](images/Stats%20preview%20card%20component%20mobile%20-%20sonndy.github.io.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
