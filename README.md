@@ -49,7 +49,7 @@ Both media query and flex box are necessary to create a responsive site.
 
 ### Continued development
 
-I want to continue focusing on understanding flexbox and finding new ways i can keep implementing them in all of my project in order to make my site responsive and mobile friendly
+I want to continue focusing on understanding flexbox and finding new ways i can keep implementing it in all of my project in order to make my site responsive and mobile friendly
 
 
 ### Useful resources
